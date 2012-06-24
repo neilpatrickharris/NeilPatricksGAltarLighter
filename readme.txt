@@ -3,12 +3,10 @@ NeilPatricks Gilded Altar Lighter v1.01
 http://www.powerbot.org/community/topic/717653-neilpatricks-galtar-lighter/
 
 Profit/Hour Estimate:
-
-    100,000- 1,000,000. There is a risk of no donations, but also the reward of 1M+ donations. 
-    I've personally made 30m in 1 week with this script, sometimes making up to 6m+ per day (10 hours per day).
+    -100,000- 1,000,000. There is a risk of no donations, but also the reward of 1M+ donations. 
+    -I've personally made 30m in 1 week with this script, sometimes making up to 6m+ per day (10 hours per day).
 
 Features:
-
     -Lights the incense burners.
     -Simple paint
     -Completely AFK for 6 Hours. (Gui timer helps to keep track of when 6 hours is almost up)
@@ -21,8 +19,7 @@ Change log:
     -1.01 Added Paint + Fixed Bugs - 6/22/2012
 
 Credits:
-
->RoadProphet - Script Base
->Nebula - To much to name <3
->Winawesome - Irc Support
+    >RoadProphet - Script Base
+    >Nebula - To much to name <3
+    >Winawesome - Irc Support
 
