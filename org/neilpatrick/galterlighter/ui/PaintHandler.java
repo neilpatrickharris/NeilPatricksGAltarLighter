@@ -31,6 +31,7 @@ public class PaintHandler {
 		g.drawString("NeilPatricks G Altar Lighter", 10, 40);
 		g.drawString("Time Ran: " + Time.format(PrelimTask.runTime.getElapsed()), 10, 60);
 		g.drawString("Profit: " + ProfitCheckerTask.profit, 10, 75);
+		g.drawString("Only Demon Butler - Marble Burner Supported.", 10, 90);
 		// ////////////////////////////////
 
 		// ///////////TILE/////////////////
